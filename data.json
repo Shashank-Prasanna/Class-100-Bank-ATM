@@ -1,0 +1,16 @@
+{
+    "customers": {
+        "1": {
+            "pinNumber": "1",
+            "balance": 2000
+        },
+        "2":{
+            "pinNumber": "2",
+            "balance": 3000
+        },
+        "1234":{
+            "pinNumber": "1234",
+            "balance": 0
+        }
+    }
+}
